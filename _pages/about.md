@@ -23,5 +23,5 @@ Research Interests
 I aspire to be a researcher in deep learning. Particularly I'm interested in deep reinforcement learning and meta learning for reinforcement learning. Some of the current research problems I wish to work on are as follows:
 
 - Generalization of deep reinforcement learning algorithms
-- Meta-Learning for deep learning
-- Unsupervised learning for reinforcement learning
+- Meta Learning for deep reinforcement learning
+- Unsupervised Learning for deep reinforcement learning
